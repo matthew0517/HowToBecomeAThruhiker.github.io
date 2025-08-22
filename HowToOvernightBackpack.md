@@ -1,9 +1,7 @@
 ---
 layout: page
-title: "How to Overnight Backpack"
+title: "How to overnight backpack"
 permalink: /HowToOvernightBackpack
 ---
-
-# How to Overnight Backpack
 
 (Your content here)
